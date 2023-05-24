@@ -25,7 +25,7 @@ python -m venv .venv
 ```
 Start virtual environment:
 ```
-source .venv/bin.activate
+source .venv/bin/activate
 ```
 Install the repo requirements:
 ```
